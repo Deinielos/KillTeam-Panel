@@ -1,5 +1,5 @@
 
-const url = 'http://localhost:8080/users'
+const url = 'https://kill-team-panel.herokuapp.com/users'
 const headers = {
     "Content-Type": "application/json",
 }

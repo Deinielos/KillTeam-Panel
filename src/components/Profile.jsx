@@ -9,7 +9,7 @@ export default function Profile() {
     //let navigate = useNavigate();
 
     const goToNewGame = () => {
-        window.location = "http://localhost:8080/newGame"
+        window.location = "https://kill-team-panel.herokuapp.com/newGame"
     }
 
 

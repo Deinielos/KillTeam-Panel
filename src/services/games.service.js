@@ -1,7 +1,7 @@
 
 import { getToken } from "./users.service.js"
 
-const url = 'http://localhost:8080/games'
+const url = 'https://kill-team-panel.herokuapp.com/games'
 const headers = {
     "Content-Type": "application/json",
     "Authorization": ""
